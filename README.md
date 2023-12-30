@@ -37,8 +37,8 @@ predictedCO2 = regr.predict([[3300,1300]])
 print("Predicted CO2 for the corresponding weight and volume",predictedCO2)
 ```
 ## Output:
+![Screenshot 2023-12-30 201806](https://github.com/ARAVIND23005370/Multivariate-Linear-Regression/assets/148514836/75258781-7942-4dea-8d4d-249a4d7663f5)
 
-![Screenshot 2023-12-28 222359](https://github.com/ARAVIND23005370/Multivariate-Linear-Regression/assets/148514836/c98f96b5-f583-4d4d-a26d-71349d87d88f)
 
 
 
